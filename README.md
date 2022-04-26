@@ -3,10 +3,10 @@
 
 
 #include<iostream>
-using namespace std;
+#using namespace std;
 
-main()
-{
+#main()
+#{
    int birinci=0,ikinci=1;
    int sonraki,c,sayi;
    cout <<"kac adet fibonacci serisi oluscak"<<endl;
